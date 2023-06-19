@@ -25,7 +25,7 @@ public class Main {
         int action = new Scanner(System.in).nextInt();
         if (action == 1) {
             Story_1 story1 = new Story_1();
-            story1.Story();
+            story1.Start();
         }
         if (action == 2){
             Story_2 story2 = new Story_2();
