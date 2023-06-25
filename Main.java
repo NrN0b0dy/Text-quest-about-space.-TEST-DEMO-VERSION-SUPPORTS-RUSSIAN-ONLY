@@ -29,7 +29,7 @@ public class Main {
         }
         if (action == 2){
             Story_2 story2 = new Story_2();
-            story2.Story();
+            story2.Start();
         }
     }
 }
